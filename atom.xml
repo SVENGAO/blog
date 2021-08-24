@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog</id>
     <title>Gridea</title>
-    <updated>2021-08-24T06:50:48.014Z</updated>
+    <updated>2021-08-24T06:54:05.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog"/>
     <link rel="self" href="https://blog/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://blog/images/avatar.png</logo>
     <icon>https://blog/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[gridea+gtihub]]></title>
+        <id>https://blog/post/123/</id>
+        <link href="https://blog/post/123/">
+        </link>
+        <updated>2021-08-24T06:10:55.000Z</updated>
+        <content type="html"><![CDATA[<p>1、gridea配置如图<br>
+<img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/1.png" alt="" loading="lazy"></p>
+<p>左边为仓库用户名(svengao)，右边为域名和仓库名称（blog），下面为分支名称（main）</p>
+<p><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/2.png" alt="" loading="lazy"><br>
+2、Token</p>
+<p>这里有个安全上的小 Tip，我们在创建 Personal access tokens 的时候，只需要赋予 repo 的权限即可，这样最大程度减少 Token 出现泄漏后可能造成的安全风险。</p>
+<figure data-type="image" tabindex="1"><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210824144710302.png" alt="image-20210824144710302" loading="lazy"></figure>
+<p>3、进入设置开启Github Pages:</p>
+<figure data-type="image" tabindex="2"><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210824145000531.png" alt="image-20210824145000531" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gridea+gtihub]]></title>
         <id>https://blog/post/grideagtihub/</id>
