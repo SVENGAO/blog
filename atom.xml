@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://svengao.github.io/blog</id>
     <title>Gridea</title>
-    <updated>2021-08-25T02:07:35.535Z</updated>
+    <updated>2021-08-25T02:15:35.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://svengao.github.io/blog"/>
     <link rel="self" href="https://svengao.github.io/blog/atom.xml"/>
@@ -296,15 +296,17 @@
         <link href="https://svengao.github.io/blog/post/grideagtihub/">
         </link>
         <updated>2021-08-24T06:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>1、gridea配置如图<br>
-<img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/1.png" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>1、gridea配置如图,域名是外网访问的基础，需要填写完整的githubpage地址，如图所示svengao@github.io/blog</p>
+<figure data-type="image" tabindex="1"><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210825100919247.png" alt="image-20210825100919247" loading="lazy"></figure>
 <p>左边为仓库用户名(svengao)，右边为域名和仓库名称（blog），下面为分支名称（main）</p>
 <p><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/2.png" alt="" loading="lazy"><br>
 2、Token</p>
 <p>这里有个安全上的小 Tip，我们在创建 Personal access tokens 的时候，只需要赋予 repo 的权限即可，这样最大程度减少 Token 出现泄漏后可能造成的安全风险。</p>
-<figure data-type="image" tabindex="1"><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210824144710302.png" alt="image-20210824144710302" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210824144710302.png" alt="image-20210824144710302" loading="lazy"></figure>
 <p>3、进入设置开启Github Pages:</p>
-<figure data-type="image" tabindex="2"><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210824145000531.png" alt="image-20210824145000531" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210825101312377.png" alt="image-20210825101312377" loading="lazy"></figure>
+<p>4、配置菜单，是网页菜单可以正常跳转</p>
+<figure data-type="image" tabindex="4"><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210825101427303.png" alt="image-20210825101427303" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
