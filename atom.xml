@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog</id>
     <title>Gridea</title>
-    <updated>2021-08-25T01:51:29.112Z</updated>
+    <updated>2021-08-25T01:58:16.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog"/>
     <link rel="self" href="https://blog/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://blog/images/avatar.png</logo>
     <icon>https://blog/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[极光阅读]]></title>
+        <id>https://blog/post/ji-guang-yue-du/</id>
+        <link href="https://blog/post/ji-guang-yue-du/">
+        </link>
+        <updated>2021-08-25T01:51:36.000Z</updated>
+        <content type="html"><![CDATA[<p>1、英语翻译出现的顺序和电脑词典的分布顺序有关系。</p>
+<p>在词典的偏好设置中将牛津英汉词典放在第一位，就可以正常显示翻译中文了。</p>
+<p><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210825095506322.png" alt="image-20210825095506322" loading="lazy"><img src="https://gitee.com/svengao7/tuchuang/raw/master/uPic/image-20210825095625116.png" alt="image-20210825095625116" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typora 快捷键]]></title>
         <id>https://blog/post/typora快捷键/</id>
