@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://svengao.github.io/blog</id>
     <title>Gridea</title>
-    <updated>2021-08-26T01:47:49.130Z</updated>
+    <updated>2021-11-10T02:05:47.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://svengao.github.io/blog"/>
     <link rel="self" href="https://svengao.github.io/blog/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://svengao.github.io/blog/images/avatar.png</logo>
     <icon>https://svengao.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[CET6-1]]></title>
+        <id>https://svengao.github.io/blog/post/cet6-1/</id>
+        <link href="https://svengao.github.io/blog/post/cet6-1/">
+        </link>
+        <updated>2021-11-10T01:57:12.000Z</updated>
+        <content type="html"><![CDATA[<p>Humans are fascinated by the source of their failings and virtues. This preoccupation inevitably leads to an old debate: whether nature or nurture moulds us more. A revolution in genomics has poised this as a modern political question about the character of our society: if personalities are hard-wired into our genes, what can governments do to help us? This is a big, creepy if over which the spectre of eugenics hovers. It feels morally questionable yet claims of genetic selection by itelligence are making headlines.<br>
+This is down to hereditarian&quot; science, a field dominated in this country by Robert Plomin, a psychologist at King's College London. His latest paper claimed differences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them&quot;. With such a billing the work was predictably greeted by a raft of absurd claims about &quot;genetics determining academic success&quot;. What the research revealed was the rather less surprising result: the educational benefits of selective schools largely disappear once pupils' innate ability and socio -economic background were taken into account. It is a glimpse of<br>
+the blindingly obvious - and there's nothing to back strongly either a hereditary or environmental argument.<br>
+Yet the paper does say children are unintentionally genetically selected&quot; by the school system.Central to hereditarian science is a tall claim: that identifiable variations in genetic sequences can predict an individual's propensity to learn, reason and solve problems. This is problematic on many levels. A teacher could not seriously tell a parent their child has a low genetic tendency to study when external factors clearly exist. Unlike -minded academics say the heritability of human<br>
+traits is scientifically unsound. At best there is a weak statistical association and not a causal link between DNA and intelligence. Yet sophisticated statistics are used to create an intimidatory atmosphere of scientific certitude.<br>
+While there's an undoubted genetic basis to individual difference, it is wrong to think that socially defined groups can be genetically accounted for. The fixation on genes as destiny is surely false too. Medical predictability can rarely be based on DNA alone; environment matters to Something as complex as inellect is likely to be afected by many factors beyond genes. I hereditarians want to advance their cause it will require more balanced interpretation and not just acts of advocacy.<br>
+Genetic selection is a way of exerting influence over others, the ultimate collective control of human destinies,&quot; as writer H. G. Wells put it. Knowledge becomes power and power requires a sense of responsibility. In understanding cognitive ability, we must not elevate discrimination to a science; allowing people to climb the ladder of life only as far as their cells might suggest. This will need a more skeptical eye on the science. As technology progresses, we all have a duty to make sure that we shape a future that we would want to find ourselves in.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[english]]></title>
         <id>https://svengao.github.io/blog/post/english/</id>
